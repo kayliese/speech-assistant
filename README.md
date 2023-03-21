@@ -25,7 +25,7 @@ Install the required packages:
 ```
 pip install -r requirements.txt
 ```
-Dependencies
+# Dependencies
 
 The following packages are required to run the assistant:
 
@@ -35,7 +35,7 @@ The following packages are required to run the assistant:
     pyttsx3
     PyAudio
 
-Credits
+# Credits
 
     Google Text-to-Speech: Used to convert text to speech.
     Speech Recognition: Used to recognize speech input.
